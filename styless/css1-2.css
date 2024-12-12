@@ -12,6 +12,16 @@
     margin-bottom: 37px;
 }
 
+
+#firstContainer {
+    width: 568px;
+    height: 866px;
+    margin-left: 55px;
+    margin-top: 37px;
+    margin-bottom: 74px;
+
+}
+
 #starynight {
     width: 568px;
     height: 446px;
@@ -34,5 +44,16 @@
 #firsttext {
     color: #414651;
     font-size: 20px;
+    margin-bottom: 16px;
+    margin-top: 16px;
 
+}
+
+#listContainer {
+    color: #155EEF;
+    margin-bottom: 32px;
+    font-size: 16px;
+    max-width: 568px;
+    height: 144px;
+    margin-top: 16px;
 }
